@@ -1,0 +1,31 @@
+ /* HTML SELECTOR */
+ body {
+     background-image: url('images/background.jpg');
+     background-size: cover;
+ }
+
+ div {
+     text-align: center;
+ }
+
+ h1 {
+     color: white;
+     font-size: 3rem;
+ }
+
+ p {
+     color: lime;
+ }
+
+ /*  CLASS SELECTOR */
+ .coba {
+     font-family: sans-serif;
+     font-style: italic;
+ }
+
+ /* ID SELECTOR */
+ #lorem {
+     color: blanchedalmond;
+     font-weight: bold;
+     font-size: 2rem;
+ }
